@@ -1,0 +1,17 @@
+C:\Workspace\algar-tech\base-core-api\base-core-api\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.AssemblyReference.cache
+C:\Workspace\algar-tech\base-core-api\base-core-api\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\algar-tech\base-core-api\base-core-api\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.AssemblyInfoInputs.cache
+C:\Workspace\algar-tech\base-core-api\base-core-api\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.AssemblyInfo.cs
+C:\Workspace\algar-tech\base-core-api\base-core-api\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Workspace\algar-tech\base-core-api\base-core-api\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.deps.json
+C:\Workspace\algar-tech\base-core-api\base-core-api\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.runtimeconfig.json
+C:\Workspace\algar-tech\base-core-api\base-core-api\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.dll
+C:\Workspace\algar-tech\base-core-api\base-core-api\App.Infrastructure\bin\Debug\net6.0\App.Infrastructure.pdb
+C:\Workspace\algar-tech\base-core-api\base-core-api\App.Infrastructure\bin\Debug\net6.0\App.Common.dll
+C:\Workspace\algar-tech\base-core-api\base-core-api\App.Infrastructure\bin\Debug\net6.0\App.Common.pdb
+C:\Workspace\algar-tech\base-core-api\base-core-api\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.csproj.CopyComplete
+C:\Workspace\algar-tech\base-core-api\base-core-api\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.dll
+C:\Workspace\algar-tech\base-core-api\base-core-api\App.Infrastructure\obj\Debug\net6.0\refint\App.Infrastructure.dll
+C:\Workspace\algar-tech\base-core-api\base-core-api\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.pdb
+C:\Workspace\algar-tech\base-core-api\base-core-api\App.Infrastructure\obj\Debug\net6.0\App.Infrastructure.genruntimeconfig.cache
+C:\Workspace\algar-tech\base-core-api\base-core-api\App.Infrastructure\obj\Debug\net6.0\ref\App.Infrastructure.dll
